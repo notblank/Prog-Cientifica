@@ -18,8 +18,6 @@ Contenido:
 
 El curso está dirigido a cualquier persona a la que le interese aprender a programar y manipular redes metabólicas. 
 
-De manera mas general el curso es una introducción al estudio de sistema dinámicos lineales y redes usando comutadoras. Si bien las aplicaciones que vamos a estudiar son biológicas, el contenido es perfectamente aplicable al estudio del tráfico, redes sociales, etc. 
-
 ## Instrucciones
 
 Antes de comenzar el curso lean el archivo [Instalar python y librerías](https://github.com/notblank/Prog-Cientifica/blob/master/Intro%20Python/Instalar%20python%20y%20librer%C3%ADas.ipynb)).
