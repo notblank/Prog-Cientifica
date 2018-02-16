@@ -16,7 +16,7 @@ Contenido:
 
 ## El curso no tiene pre-requisitos
 
-El curso está dirigido a cualquier persona a la que le interese aprender a programar y manipular redes metabólicas. 
+El curso está dirigido a cualquier persona a la que le interese aprender a programar. 
 
 ## Instrucciones
 
