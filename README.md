@@ -20,7 +20,7 @@ El curso está dirigido a cualquier persona a la que le interese aprender a prog
 
 ## Instrucciones
 
-Antes de comenzar el curso lean el archivo [Instalar python y librerías](https://github.com/notblank/Prog-Cientifica/blob/master/Intro%20Python/Instalar%20python%20y%20librer%C3%ADas.ipynb)).
+Antes de comenzar el curso lean el archivo ([Instalar python y librerías](https://github.com/notblank/Prog-Cientifica/blob/master/Intro%20Python/Instalar%20python%20y%20librer%C3%ADas.ipynb)).
 
 - [ ] Ya leyeron Instalar Python? 
 
