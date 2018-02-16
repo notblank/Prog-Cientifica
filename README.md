@@ -1,6 +1,6 @@
 # Programación Científica
 
-Curso UTA, Programación Científica marzo 2018
+Curso UTA, Programación Científica, marzo 2018.
 
 Hola, estas son las notas, códigos y figuras de mi (soy Federico) sección del curso. 
 
@@ -24,4 +24,4 @@ Antes de comenzar el curso lean el archivo [Instalar python y librerías](https:
 
 - [ ] Ya leyeron Instalar Python? 
 
-Si tienen algún problema instalando algo, por favor escríbanme lo antes posible a fj.zertuche@uta.edu.ec .
+Si tienen algún problema instalando algo por favor escríbanme lo antes posible a fj.zertuche@uta.edu.ec .
