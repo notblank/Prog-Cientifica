@@ -12,7 +12,7 @@ Contenido:
 
   3. Edit Distance y Juegos de Palabras (Notebook, [Edit Distance](https://github.com/notblank/Prog-Cientifica/blob/master/Dynamic%20Prog/Edit%20Distance.ipynb)).
 
-  4. Dynamic Programming y Caminos Cortos (Notebook, [Dynamic Programming] (https://github.com/notblank/Prog-Cientifica/blob/master/Dynamic%20Prog/Dynamic%20Programming.ipynb)).
+  4. Dynamic Programming y Caminos Cortos (Notebook, [Dynamic Programming] https://github.com/notblank/Prog-Cientifica/blob/master/Dynamic%20Prog/Dynamic%20Programming.ipynb)).
 
 ## El curso no tiene pre-requisitos
 
