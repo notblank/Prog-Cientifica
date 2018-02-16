@@ -2,7 +2,7 @@
 
 Curso UTA, Programación Científica marzo 2018
 
-Hola, estas son las notas, códigos y figuras de mi sección del curso. 
+Hola, estas son las notas, códigos y figuras de mi (soy Federico) sección del curso. 
 
 Contenido:
 
