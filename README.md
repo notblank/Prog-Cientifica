@@ -25,3 +25,5 @@ De manera mas general el curso es una introducción al estudio de sistema dinám
 Antes de comenzar el curso lean el archivo [Instalar python y librerías](https://github.com/notblank/Prog-Cientifica/blob/master/Intro%20Python/Instalar%20python%20y%20librer%C3%ADas.ipynb)).
 
 - [ ] Ya leyeron Instalar Python? 
+
+Si tienen algún problema instalando algo, por favor escríbanme lo antes posible a fj.zertuche@uta.edu.ec .
