@@ -1,4 +1,4 @@
-# Prog-Científica
+# Programación Científica
 
 Curso UTA, Programación Científica marzo 2018
 
