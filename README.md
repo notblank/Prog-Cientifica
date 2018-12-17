@@ -24,4 +24,4 @@ Antes de comenzar el curso lean el archivo ([Instalar python y librerías](https
 
 - [ ] Ya leyeron Instalar Python? 
 
-Si tienen algún problema instalando algo por favor escríbanme lo antes posible a fj.zertuche@uta.edu.ec .
+Si tienen algún problema instalando algo por favor escríbanme lo antes posible a zert.federico@gmail.com .
